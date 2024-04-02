@@ -25,4 +25,5 @@ Diagrama de Clases.
 módulo.
 
 Solucion
+
 ![solucion](validadorDeCorrelatividades.png)
