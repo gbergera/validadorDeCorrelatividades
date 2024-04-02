@@ -1,7 +1,8 @@
 # Validador de Inscripciones según Correlatividades
 
 
-Contexto
+**Contexto**
+
 Nos han solicitado el diseño y el desarrollo de un Validador de Inscripciones según materias correlativas.
 En las carreras terciarias y universitarias, para ordenar el plan de estudios y asegurar que cuando se inicia
 una materia se tienen todos los conocimientos necesarios para entenderla, se establece lo que se llama
@@ -24,6 +25,6 @@ Diagrama de Clases.
 3. Crear los tests unitarios que considere necesario para mostrar el correcto funcionamiento del
 módulo.
 
-Solucion
+**Solucion**
 
 ![solucion](validadorDeCorrelatividades.png)
