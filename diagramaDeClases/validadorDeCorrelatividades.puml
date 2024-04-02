@@ -16,7 +16,7 @@ class Alumno{
   -materiasAprobadas: List<Materia>
 
 
-  +aproboMateriasCorrelativas(List<Materia> correlativas) : Boolean
+  +aproboMateriasCorrelativas(Materia materia) : Boolean
 }
 
 
