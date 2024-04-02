@@ -27,4 +27,4 @@ módulo.
 
 **Solucion**
 
-![solucion](validadorDeCorrelatividades.png)
+![solucion](diagramaDeClases/validadorDeCorrelatividades.png)
